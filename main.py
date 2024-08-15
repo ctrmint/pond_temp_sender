@@ -10,8 +10,8 @@ from pico_hardware import OnboardTemp
 from machine import Pin
 
 # Configuration Constants
-SSID = 'barpbarp6'
-PASSWORD = '1qazxsw23edcvfr4'
+SSID = 'blank'
+PASSWORD = 'blank'
 MULTICAST_GROUP = '224.0.0.1'
 MULTICAST_PORT = 5007
 BROADCAST_IP = "10.81.1.255"
